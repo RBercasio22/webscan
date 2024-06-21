@@ -126,6 +126,7 @@ input {
 }
 .scan:hover {
     background-color: rgb(150,0,0);
+    box-shadow: 1px 1px 100px red;
 
 }
 
