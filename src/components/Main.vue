@@ -143,7 +143,12 @@ textarea {
     justify-content: right;
     align-items: center;
 }
-
+p {
+    transition: 2s;
+}
+p:hover {
+    color: red;
+}
 </style>
 
 
